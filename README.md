@@ -1,5 +1,19 @@
 <div align="center">
 
+# Lemon Skill Lab
+
+**从输入资料、工具处理到 Skill 生成，探索可审查、可复用的 AI 同事技能；基于上游 colleague-skill 进行学习实验。**
+
+`Persona / Prompts / Tools / Agent Skills`
+
+> 项目展示风格：AI Agent 实验室 · 以下保留原项目 README 的技术内容、状态说明和使用约束。
+
+</div>
+
+---
+
+<div align="center">
+
 # 🧪 colleague.skill（学习/实验版本）
 
 > 本仓库为开源项目 colleague.skill 的学习与实验性使用版本  
